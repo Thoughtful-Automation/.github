@@ -10,19 +10,15 @@ Thoughtful Automation creates, monitors, and trains intelligent digital workers 
 
 ###  How can we help?
 
-☎️ [Reach out](https://www.thoughtfulautomation.com/contact) to us
-
-🗣️ Talk to our [sales team](https://www.thoughtfulautomation.com/book-a-meeting)
-
-🍿 Check out our [Featured Webinars](https://www.thoughtfulautomation.com/webinars)
-
-📄 and our [Whitepapers](https://www.thoughtfulautomation.com/) to Empower Decision-Makers
-
-🔐 See how we take [security](https://www.thoughtfulautomation.com/trust-and-security) seriously
+- ☎️ [**Reach out**](https://www.thoughtfulautomation.com/contact) to us
+- 🗣️ Talk to our [**sales team**](https://www.thoughtfulautomation.com/book-a-meeting)
+- 🍿 Watch our [**featured webinars**](https://www.thoughtfulautomation.com/webinars)
+- 📄 Read our [**whitepapers**](https://www.thoughtfulautomation.com/whitepapers) to empower decision-makers
+- 🔐 See how we take [**security**](https://www.thoughtfulautomation.com/trust-and-security) seriously
 
 ### Join the Thoughtful Movement
 
-If you are awesome, we're are always hiring talented, passionate people to join our team 🙌. 
+If you're awesome, we're always hiring talented, passionate people to join our team 🙌. 
 
 See our [careers page](https://thoughtfulautomation.notion.site/e8e644e5503641659d47ac6b5261d8ad?v=fcc3c8e647f64610802045d4ce2a670e) and join the Thoughtful Movement.
 
