@@ -1,32 +1,32 @@
-## Hi there, we're Thoughtful Automation 👋
+## Hi there, we're Thoughtful 👋
 ![thoughtful-engineering-notion-bg-wtrmk](https://user-images.githubusercontent.com/1096881/151483390-1bde7e8b-bfda-4cf2-92af-6c73cdb23d0c.png)
 
 # Automate the work that slows you down
 
 > 🏆️ Our mission is to empower businesses of all sizes to free their workforce
 
-Thoughtful Automation creates, monitors, and trains intelligent digital workers on our Digital Workforce Management platform, Empower.
+Thoughtful creates, monitors, and trains intelligent digital workers on our Digital Workforce Management platform, Empower.
 
 
 ###  How can we help?
 
-- ☎️ [**Reach out**](https://www.thoughtfulautomation.com/contact) to us
-- 🗣️ Talk to our [**sales team**](https://www.thoughtfulautomation.com/book-a-meeting)
-- 🍿 Watch our [**featured webinars**](https://www.thoughtfulautomation.com/webinars)
-- 📄 Read our [**whitepapers**](https://www.thoughtfulautomation.com/whitepapers) to empower decision-makers
-- 🔐 See how we take [**security**](https://www.thoughtfulautomation.com/trust-and-security) seriously
+- ☎️ [**Reach out**](https://www.thoughtful.ai/contact) to us
+- 🗣️ Talk to our [**sales team**](https://www.thoughtful.ai/book-a-meeting)
+- 🍿 Watch our [**featured webinars**](https://www.thoughtful.ai/webinars)
+- 📄 Read our [**whitepapers**](https://www.thoughtful.ai/whitepapers) to empower decision-makers
+- 🔐 See how we take [**security**](https://www.thoughtful.ai/trust-and-security) seriously
 
 ### Join the Thoughtful Movement
 
 If you're awesome, we're always hiring talented, passionate people to join our team 🙌. 
 
-See our [careers page](https://thoughtfulautomation.notion.site/e8e644e5503641659d47ac6b5261d8ad?v=fcc3c8e647f64610802045d4ce2a670e) and join the Thoughtful Movement.
+See our [careers page](https://www.thoughtful.ai/careers) and join the Thoughtful Movement.
 
 <details> 
-	<summary>What's it like to work at Thoughtful Automation?!</summary>
+	<summary>What's it like to work at Thoughtful?!</summary>
 	<br>
   
-## Culture at Thoughtful Automation
+## Culture at Thoughtful
 
 ### The Stuff We’re Made Of
 
@@ -50,11 +50,11 @@ How do you bring people from around the world together to create the workforce o
 
 ---
 
-Visit [thoughtfulautomation.com](https://www.thoughtfulautomation.com/)
+Visit [thoughtful.ai](https://www.thoughtful.ai/)
 
 <sub>
 
-[Privacy Policy](https://www.thoughtfulautomation.com/privacy-policy) | [Terms and Conditions](https://www.thoughtfulautomation.com/terms-of-service)
+[Privacy Policy](https://www.thoughtful.ai/privacy-policy) | [Terms and Conditions](https://www.thoughtful.ai/terms-of-service)
 
 </sub>
 
