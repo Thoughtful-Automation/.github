@@ -5,7 +5,7 @@
 
 > 🏆️ Our mission is to empower businesses of all sizes to free their workforce
 
-Thoughtful creates, monitors, and trains intelligent digital workers on our Digital Workforce Management platform, Empower.
+Thoughtful creates, monitors, and trains AI workers on our AI Workforce Management platform, Empower.
 
 
 ###  How can we help?
