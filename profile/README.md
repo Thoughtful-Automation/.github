@@ -11,7 +11,7 @@ Thoughtful creates, monitors, and trains AI workers on our AI Workforce Manageme
 ###  How can we help?
 
 - ☎️ [**Reach out**](https://www.thoughtful.ai/contact) to us
-- 🗣️ Talk to our [**sales team**](https://www.thoughtful.ai/book-a-meeting)
+- 🗣️ Talk to our [**sales team**](https://www.thoughtful.ai/get-a-demo)
 - 🍿 Watch our [**featured webinars**](https://www.thoughtful.ai/webinars)
 - 📄 Read our [**whitepapers**](https://www.thoughtful.ai/whitepapers) to empower decision-makers
 - 🔐 See how we take [**security**](https://www.thoughtful.ai/trust-and-security) seriously
